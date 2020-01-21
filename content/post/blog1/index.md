@@ -27,7 +27,7 @@ image:
 
 **ECHR Conference 2019!**
 
-I wanted to write a quick blog about my first experience presenting at a conference and how I feel about it now on reflection. I was lucky enough to have my abstract accepted for the 2nd annual ECHR conference in Durham, UK. Not only was this the first conference I would attending alone, it was also the first one I'd been to outside London, and the first one I would be presenting at - nervewracking!
+I wanted to write a quick blog about my first experience presenting at a conference and how I feel about it now on reflection. I was lucky enough to have my abstract accepted for the 2nd annual ECHR conference in Durham, UK. Not only was this the first conference I would be attending alone, it was also the first one I'd been to outside London, and the first one I would be presenting at - nervewracking!
 
 ![echrlogo](/post/blog1/index_files/ECHR.jpg)
 
