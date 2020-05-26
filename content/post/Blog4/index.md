@@ -2,7 +2,7 @@
 ---
 title: 'Doing Your Upgrade Exam During a Worldwide Pandemic'
 subtitle: 'The good and the bad!'
-summary: A look into my experience of completing my upgrade exam during a pandemic.!
+summary: A look into my experience of completing my upgrade exam during a pandemic!
 authors:
 - admin
 tags:
