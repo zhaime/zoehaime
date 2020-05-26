@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication | Zoë Haime</title>
+    <link>/categories/communication/</link>
+      <atom:link href="/categories/communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Communication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Communication</title>
+      <link>/categories/communication/</link>
+    </image>
+    
+    <item>
+      <title>Doing Your Upgrade Exam During a Worldwide Pandemic</title>
+      <link>/post/blog4/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/blog4/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-interesting-consider-sharing-it-&#34;&gt;Did you find this page interesting? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public Engagement and Science Communication</title>
+      <link>/post/blog3/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/blog3/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-interesting-consider-sharing-it-&#34;&gt;Did you find this page interesting? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
