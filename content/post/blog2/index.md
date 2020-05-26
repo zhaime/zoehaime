@@ -24,8 +24,7 @@ image:
   
 ---
 
-Blog post to be updated soon...
-
+Paper is currently under review (blog to be updated soon...)
 
 
 
