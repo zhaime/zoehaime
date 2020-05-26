@@ -29,7 +29,7 @@
   
   <url>
     <loc>/tags/research/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -45,16 +45,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/my-project/</loc>
-    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/personal/</loc>
-    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,11 +103,6 @@
   </url>
   
   <url>
-    <loc>/post/blog2/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
@@ -133,18 +118,18 @@
   </url>
   
   <url>
-    <loc>/categories/personal/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/science/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <loc>/categories/research/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blog2/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -21,18 +21,10 @@
     </item>
     
     <item>
-      <title>Personal</title>
-      <link>/categories/personal/</link>
+      <title>Research</title>
+      <link>/categories/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/categories/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science</title>
-      <link>/categories/science/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/categories/science/</guid>
+      <guid>/categories/research/</guid>
       <description></description>
     </item>
     
