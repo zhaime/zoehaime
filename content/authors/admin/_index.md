@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher and PhD Student
+role: Researcher and PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Student [current]
+  - course: PhD Candidate [current]
     institution: University College London
   - course: PGDiP Mental Health Practice
     institution: Middlesex University
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction (RADAR) study, and a PhD student at University College London.
+I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction (RADAR) study, and a PhD candidate at University College London.
 
 My current research focuses on the effects of antipsychotic reduction and discontinuation on social cognition in schizophrenia patients.

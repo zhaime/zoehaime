@@ -113,12 +113,22 @@
   </url>
   
   <url>
+    <loc>/post/blog4/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/blog1/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blog3/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
