@@ -1,6 +1,6 @@
 ---
 title: Life Study
-summary: Cohort Study Following the Development of Children
+summary: Cohort study which aimed to track the development, health and wellbeing of UK babies and their parents
 tags:
 - Research
 - Science
