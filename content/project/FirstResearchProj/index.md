@@ -4,7 +4,7 @@ summary: Cohort Study Following the Development of Children
 tags:
 - Research
 - Science
-date: "2018-01-10T00:00:00Z"
+date: "2020-01-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://www.lifestudy.ac.uk/"
