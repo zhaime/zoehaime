@@ -21,8 +21,6 @@ publication_types: ["2"]
 publication: "*BPS Psychiatry*"
 publication_short: ""
 
-Link to read article: "https://link.springer.com/epdf/10.1186/s12888-020-02999-x?sharing_token=NQyw5bT-_Xv4D3Ri08Vj-W_BpE1tBhCbnbw3BuzI2RMGEbTdYnvUYmdxtQdTF0tAtp9IVESyt__J5FYcoMUWJqGsL5u9IU9WXUOgTEtAbT73aoXAcRDhikj1vlhjzL3-dbVgL-74dZIben3yl1MWvR3SmTqCudAxt4atYenurmo%3D"
-
 abstract: '<b>Background:</b> Psychosis can be a sufficiently traumatic event to lead to post-traumatic stress disorder (PTSD). Previous research has focussed on the trauma of first episode psychosis (FEP) and the only review to date of PTSD beyond the first episode period was not systematic and is potentially outdated.<br><br>
 <b>Methods:</b> We searched electronic databases and reference lists using predetermined inclusion criteria to retrieve studies that reported prevalence rates and associated factors of psychosis-related PTSD across all stages of the course of psychosis. Studies were included if they measured PTSD specifically related to the experience of psychosis. Risk of bias was assessed using an adapted version of the Newcastle Ottawa Scale. Results were synthesised narratively.<br><br>
 <b>Results:</b> Six papers met inclusion criteria. Prevalence estimates of psychosis-related PTSD varied from 14 to 47%. Studies either assessed first-episode samples or did not specify the number of episodes experienced. Depression was consistently associated with psychosis-related PTSD. Other potential associations included treatment-related factors, psychosis severity, childhood trauma, and individual psychosocial reactions to trauma.<br><br>
