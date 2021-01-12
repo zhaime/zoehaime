@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*BPS Psychiatry*"
+Journal: "*BPS Psychiatry*"
 publication_short: ""
 
 abstract: '<b>Background:</b> Psychosis can be a sufficiently traumatic event to lead to post-traumatic stress disorder (PTSD). Previous research has focussed on the trauma of first episode psychosis (FEP) and the only review to date of PTSD beyond the first episode period was not systematic and is potentially outdated.<br><br>
