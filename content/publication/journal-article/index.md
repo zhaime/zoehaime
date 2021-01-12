@@ -1,5 +1,5 @@
 ---
-title: "Check back soon for papers!"
+title: "A systematic review of PTSD to the experience of psychosis: prevalence and associated factors"
 authors:
 - admin
 date: "2015-09-01T00:00:00Z"
