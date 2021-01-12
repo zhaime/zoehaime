@@ -2,21 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Zoë Haime</title>
-    <link>/tags/research/</link>
-      <atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zoehaime.com/tags/research/</link>
+      <atom:link href="https://zoehaime.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Research</title>
-      <link>/tags/research/</link>
+      <link>https://zoehaime.com/tags/research/</link>
     </image>
     
     <item>
-      <title>RADAR Programme</title>
-      <link>/project/internal-project/</link>
+      <title>Life Study</title>
+      <link>https://zoehaime.com/project/firstresearchproj/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://zoehaime.com/project/firstresearchproj/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RADAR Programme</title>
+      <link>https://zoehaime.com/project/internal-project/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zoehaime.com/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -27,17 +40,17 @@
     
     <item>
       <title>Critical Analysis of Qualitative Papers Workshop</title>
-      <link>/talk/workshop1/</link>
+      <link>https://zoehaime.com/talk/workshop1/</link>
       <pubDate>Tue, 11 Jun 2019 11:00:00 +0000</pubDate>
-      <guid>/talk/workshop1/</guid>
+      <guid>https://zoehaime.com/talk/workshop1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Doing Your Upgrade Exam During a Worldwide Pandemic</title>
-      <link>/post/blog4/</link>
+      <link>https://zoehaime.com/post/blog4/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/blog4/</guid>
+      <guid>https://zoehaime.com/post/blog4/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 &lt;h3 id=&#34;did-you-find-this-page-interesting-consider-sharing-it-&#34;&gt;Did you find this page interesting? Consider sharing it 🙌&lt;/h3&gt;
 </description>
@@ -45,30 +58,27 @@
     
     <item>
       <title>Public Engagement and Science Communication</title>
-      <link>/post/blog3/</link>
+      <link>https://zoehaime.com/post/blog3/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/blog3/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <guid>https://zoehaime.com/post/blog3/</guid>
+      <description>&lt;p&gt;As an Early Career Researcher (ECR) I feel like I have been lucky to live in an era where twitter exists. I have gained so much knowledge and advice from the platform, and I have been able to stay up-to-date with the latest research developments in my area. That&#39;s not to say it isn&#39;t overwhelming though, every couple of minutes there&#39;s a new deluge of information, chat, and criticism on my timeline, and this has made it difficult to sort the wheat from the chaff sometimes, or even worse, made it impossible to stop working!&lt;/p&gt;
+&lt;p&gt;However, I can really see the benefits in making science more accessible through social media. When I was younger I don&#39;t know how I would have learnt more about my future career. I didn&#39;t know anyone in academia (no-one before my brother went to university in our family), I didn&#39;t live near a university (the closest one would have been 1.5hrs away), and even if I searched the internet I wouldn&#39;t have known what to look for! That&#39;s why I&#39;ve been really excited to recently take part in a science engagement initiative called &amp;lsquo;I&#39;m a Scientist, Stay At Home&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;The premise of the activity is a website with different scientific areas (I&#39;m part of the psychology zone), where scientists create a fun and interesting profile about themselves. Teachers or group leaders can then sign-up their students to take part in asking questions to the scientists, be involved in live chats, and every week vote for their favourite scientist. The website encourages students to ask questions not only about current scientific endeavours, but about scientists career paths, or even just their personalities. The aim is to encourage children into STEM careers, but also to make science accessible and understandable to a wider, and younger audience.&lt;/p&gt;
+&lt;p&gt;I have had great fun taking part in the live chats with the children. Most of those interested in the psychology zone have been sixth form students looking for an honest insight into studying psychology at university, and the career outlook from there. They have also asked some really thoughtful and intelligent questions about my speciifc research, which has allowed me to practice talking about my work in an accessible way, and filled me with excitement that younger people are interested in such a critical area of study.&lt;/p&gt;
+&lt;p&gt;This week is loneliness awareness week and I will be taking part in some extra chats to discuss the topic of loneliness with other psychology researchers, and the children. I think it is great that during this Covid-19 time, this outlet exists, for both the scientists and the young people.&lt;/p&gt;
+&lt;p&gt;I am really hoping to continue improving my science communication during my PhD, but I have found this to be a really great first step in helping me get across my research in a simple and understandable way, whilst also hopefully creating interest in the subject.&lt;/p&gt;
 &lt;h3 id=&#34;did-you-find-this-page-interesting-consider-sharing-it-&#34;&gt;Did you find this page interesting? Consider sharing it 🙌&lt;/h3&gt;
 </description>
     </item>
     
     <item>
       <title>The Effects of Sedative and Tranquilsing Medications on Social Cognition</title>
-      <link>/post/blog2/</link>
+      <link>https://zoehaime.com/post/blog2/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/blog2/</guid>
+      <guid>https://zoehaime.com/post/blog2/</guid>
       <description>&lt;p&gt;Paper is currently under review (blog to be updated soon&amp;hellip;)&lt;/p&gt;
 &lt;h3 id=&#34;did-you-find-this-page-interesting-consider-sharing-it-&#34;&gt;Did you find this page interesting? Consider sharing it 🙌&lt;/h3&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Check back soon for papers!</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description></description>
     </item>
     
   </channel>

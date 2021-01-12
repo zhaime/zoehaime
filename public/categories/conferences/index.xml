@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences | Zoë Haime</title>
-    <link>/categories/conferences/</link>
-      <atom:link href="/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zoehaime.com/categories/conferences/</link>
+      <atom:link href="https://zoehaime.com/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Conferences</title>
-      <link>/categories/conferences/</link>
+      <link>https://zoehaime.com/categories/conferences/</link>
     </image>
     
     <item>
       <title>ECHR Conference 2019 - Durham</title>
-      <link>/post/blog1/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/blog1/</guid>
+      <link>https://zoehaime.com/post/blog1/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://zoehaime.com/post/blog1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;ECHR Conference 2019!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I wanted to write a quick blog about my first experience presenting at a conference and how I feel about it now on reflection. I was lucky enough to have my abstract accepted for the 2nd annual ECHR conference in Durham, UK. Not only was this the first conference I would be attending alone, it was also the first one I&#39;d been to outside London, and the first one I would be presenting at - nervewracking!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/blog1/index_files/ECHR.jpg&#34; alt=&#34;echrlogo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zoehaime.com/post/blog1/index_files/ECHR.jpg&#34; alt=&#34;echrlogo&#34;&gt;&lt;/p&gt;
 &lt;p&gt;For my job I&#39;m used to travelling across the UK, so getting on a train to Durham wasn&#39;t a huge deal, despite it taking a good few hours to get that far North!&lt;/p&gt;
 &lt;p&gt;As this was a conference of firsts for me, I thought I&#39;d go through some of my main pros/cons below:
 &lt;br&gt;
@@ -41,11 +41,11 @@
 &lt;br&gt;
 &lt;br&gt;
 My presentation focused on my systematic review findings, you can see my aims slide below.
-&lt;img src=&#34;/post/blog1/index_files/ECHR_pres.png&#34; alt=&#34;ECHRpres1&#34;&gt;
-&lt;img src=&#34;/post/blog1/index_files/ECHR_pres2.png&#34; alt=&#34;ECHRpres2&#34;&gt;
+&lt;img src=&#34;https://zoehaime.com/post/blog1/index_files/ECHR_pres.png&#34; alt=&#34;ECHRpres1&#34;&gt;
+&lt;img src=&#34;https://zoehaime.com/post/blog1/index_files/ECHR_pres2.png&#34; alt=&#34;ECHRpres2&#34;&gt;
 &lt;br&gt;
 I will soon write a blog on my systematic review process and results. Below I have included an example of the morning programme from this conference in case others are interested in attending a future meeting. I would highly recommend going and using the opportunity to present your work if you&#39;re in the early stages of your PhD or research career.
-&lt;img src=&#34;/post/blog1/index_files/ECHRprogramme.jpg&#34; alt=&#34;ECHRprog&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;https://zoehaime.com/post/blog1/index_files/ECHRprogramme.jpg&#34; alt=&#34;ECHRprog&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;did-you-find-this-page-interesting-consider-sharing-it-&#34;&gt;Did you find this page interesting? Consider sharing it 🙌&lt;/h3&gt;
 </description>

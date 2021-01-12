@@ -3,172 +3,155 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://zoehaime.com/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://zoehaime.com/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://zoehaime.com/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://zoehaime.com/project/firstresearchproj/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://zoehaime.com/project/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/research/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/science/</loc>
+    <loc>https://zoehaime.com/project/internal-project/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://zoehaime.com/tags/research/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://zoehaime.com/tags/science/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoehaime.com/tags/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://zoehaime.com/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/and-maria-long/</loc>
-    <lastmod>2019-06-11T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+    <loc>https://zoehaime.com/authors/admin/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/workshop1/</loc>
+    <loc>https://zoehaime.com/tags/academic/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoehaime.com/authors/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoehaime.com/categories/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoehaime.com/categories/conferences/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoehaime.com/post/blog1/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoehaime.com/post/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoehaime.com/authors/and-maria-long/</loc>
     <lastmod>2019-06-11T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lisa-grunwald/</loc>
+    <loc>https://zoehaime.com/talk/workshop1/</loc>
     <lastmod>2019-06-11T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://zoehaime.com/authors/lisa-grunwald/</loc>
     <lastmod>2019-06-11T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://zoehaime.com/talk/</loc>
+    <lastmod>2019-06-11T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoehaime.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://zoehaime.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/academic/</loc>
+    <loc>https://zoehaime.com/categories/communication/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://zoehaime.com/post/blog4/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/communication/</loc>
+    <loc>https://zoehaime.com/post/blog3/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/conferences/</loc>
+    <loc>https://zoehaime.com/categories/research/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/blog4/</loc>
+    <loc>https://zoehaime.com/post/blog2/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/blog1/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+    <loc>https://zoehaime.com/courses/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+    <loc>https://zoehaime.com/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/post/blog3/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/research/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/blog2/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
+    <loc>https://zoehaime.com/publication/</loc>
   </url>
   
 </urlset>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Zoë Haime</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zoehaime.com/categories/</link>
+      <atom:link href="https://zoehaime.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://zoehaime.com/categories/</link>
     </image>
     
     <item>
-      <title>Communication</title>
-      <link>/categories/communication/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/categories/communication/</guid>
+      <title>Conferences</title>
+      <link>https://zoehaime.com/categories/conferences/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://zoehaime.com/categories/conferences/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Conferences</title>
-      <link>/categories/conferences/</link>
+      <title>Communication</title>
+      <link>https://zoehaime.com/categories/communication/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/categories/conferences/</guid>
+      <guid>https://zoehaime.com/categories/communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/categories/research/</link>
+      <link>https://zoehaime.com/categories/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/categories/research/</guid>
+      <guid>https://zoehaime.com/categories/research/</guid>
       <description></description>
     </item>
     
