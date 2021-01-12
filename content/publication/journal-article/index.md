@@ -1,15 +1,12 @@
 ---
-title: "A systematic review of PTSD to the experience of psychosis: prevalence and associated factors"
+title: "Check back soon for papers!"
 authors:
 - admin
-- Georgie Buswell
-- Brynmor Lloyd-Evans
-- Jo Billings
-date: "2021-07-01T00:00:00Z"
-doi: "https://doi.org/10.1186/s12888-020-02999-x"
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,14 +15,10 @@ publishDate: "2021-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*BMC Psychiatry*(1)"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: 
-<b>Background:</b> Psychosis can be a sufficiently traumatic event to lead to post-traumatic stress disorder (PTSD). Previous research has focussed on the trauma of first episode psychosis (FEP) and the only review to date of PTSD beyond the first episode period was not systematic and is potentially outdated. 
-<b>Methods:</b> We searched electronic databases and reference lists using predetermined inclusion criteria to retrieve studies that reported prevalence rates and associated factors of psychosis-related PTSD across all stages of the course of psychosis. Studies were included if they measured PTSD specifically related to the experience of psychosis. Risk of bias was assessed using an adapted version of the Newcastle Ottawa Scale. Results were synthesised narratively. 
-<b>Results:</b> Six papers met inclusion criteria. Prevalence estimates of psychosis-related PTSD varied from 14 to 47%. Studies either assessed first-episode samples or did not specify the number of episodes experienced. Depression was consistently associated with psychosis-related PTSD. Other potential associations included treatment-related factors, psychosis severity, childhood trauma, and individual psychosocial reactions to trauma. 
-<b>Conclusions:</b> Psychosis-related PTSD is a common problem in people with psychosis. There is a lack of published research on this beyond first episode psychosis. Further research is needed on larger, more generalizable samples. Our results tentatively suggest that prevalence rates of psychosis-related PTSD have not reduced over the past decade despite ambitions to provide trauma-informed care. Prospero registration number: CRD42019138750. Keywords: Psychosis, Trauma, PTSD, Prevalence
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -37,7 +30,7 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://rdcu.be/cdfk4"
+#   url: ""
 url_pdf: 
 url_code: ''
 url_dataset: ''
