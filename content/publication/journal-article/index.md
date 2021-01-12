@@ -1,12 +1,15 @@
 ---
-title: "Check back soon for papers!"
+title: "A systematic review of PTSD to the experience of psychosis: prevalence and associated factors"
 authors:
 - admin
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
+- Georgie Buswell
+- Brynmor Lloyd-Evans
+- Jo Billings
+date: "2021-07-01T00:00:00Z"
+doi: "https://doi.org/10.1186/s12888-020-02999-x"
+RESEARCH ARTICLE Open Access A systematic review of PTSD to the experience of psychosis: prevalence and associated factors 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,7 +33,7 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
+#   url: "https://rdcu.be/cdfk4"
 url_pdf: 
 url_code: ''
 url_dataset: ''
