@@ -2,6 +2,9 @@
 title: "A systematic review of PTSD to the experience of psychosis: prevalence and associated factors"
 authors:
 - admin
+- Georgie Buswell
+- Brynmor Lloyd-Evans
+- Jo Billings
 date: "2021-07-01T00:00:00Z"
 doi: "https://doi.org/10.1186/s12888-020-02999-x"
 
@@ -30,8 +33,6 @@ summary:
 tags:
 - Research
 - Science
-- Trauma
-- Psychosis
 featured: false
 
 # links:
