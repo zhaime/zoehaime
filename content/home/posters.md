@@ -62,10 +62,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<center><b>Poster presented at NELFT Research and Development Conference, 2018</b>
+<center><b>Poster presented at NELFT Research and Development Conference, 2020 (2nd Prize)</b>
 <br>
 
-<img src="home/featured_files/poster2.jpg" height="300px" width="200px"/>
+<img src="![](/home/posters_files/ZH poster sys rev.jpeg)" height="300px" width="200px"/>
 <hr width="50%" size="8" align="center">
-<b>Poster presented at NELFT Research and Development Conference, 2017</b><br>
+
+<b>Poster presented at NELFT Research and Development Conference, 2017 (2nd Prize)</b><br>
 <img src="home/featured_files/poster1.jpg" height="200px" width="300px"/>

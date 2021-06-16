@@ -18,12 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Associate"
+  company = "Centre for Appearance Research (CAR), University of the West of England"
+  company_url = ""
+  location = "Bristol, UK"
+  date_start = "2021-01-04"
+  date_end = ""
+  description = """ Research into the acceptability and effectiveness of the Dove Confident Me Single Session - body image intervention in Indonesian adolescents.
+
+  Responsibilities include:
+  
+  * Leading acceptability sub-study
+  * Collaborating with internal and external stakeholders (including associates at the University of Indonesia, University of Hawaii, Dove, UNICEF Indonesia, and Indonesian research agency - Cimigo)
+  * Assisting with the organisation and running of the pilot study and main RCT in Indonesia
+  * Contributing to the development of study materials (e.g. protocols)
+  * Contributing to intervention development and amendments
+  * Survey creation and distribution via Qualtrics software
+  * Qualitative data analysis (framework analysis, content analysis)
+  * Contributing to presentations and reports for UNICEF Indonesia
+  * Contributing to manuscript drafts
+  * Assisting the CAR social media team (twitter)
+  """
+  
+[[experience]]
   title = "Research Assistant"
   company = "NHS - RADAR Study"
   company_url = ""
   location = "London - North East London Foundation Trust"
   date_start = "2017-01-20"
-  date_end = ""
+  date_end = "2020-12-30"
   description = """ Research into antipsychotic discontinuation and reduction (RADAR) is a randomised controlled trial looking at effects of antipsychotic reduction on outcome measures including social functioning, neurocognition, and symptom scores.
 
   Responsibilities include:
