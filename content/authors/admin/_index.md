@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher and PhD Candidate
+role: Research Associate and PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a research assistant working on the Research into Antipsychotic Discontinuation and Reduction (RADAR) study, and a PhD candidate at University College London.
+I am a research associate working at the Centre for Appearance Research (CAR), University of the West of England (UWE) in Bristol, UK. I am also a part-time PhD candidate at University College London.
 
-My current research focuses on the effects of antipsychotic reduction and discontinuation on social cognition in schizophrenia patients.
+My current research focuses on the effectiveness and acceptability of a single-session body image intervention for adolescents in Indonesian, in collaboration with Dove and UNICEF Indonesia.

@@ -1,8 +1,8 @@
 
 ---
-title: 'The Effects of Sedative and Tranquilsing Medications on Social Cognition'
-subtitle: 'A Systematic Review :brain:'
-summary: A blog on my most recent systematic review.
+title: 'Doing Your Upgrade Exam During a Worldwide Pandemic'
+subtitle: 'The good and the bad!'
+summary: A look into my experience of completing my upgrade exam during a pandemic!
 authors:
 - admin
 tags:
@@ -10,6 +10,7 @@ tags:
 - Research
 categories:
 - Research
+- Communication
 date: "2016-04-20T00:00:00Z"
 lastmod: "2020-01-16T00:00:00Z"
 featured: false
@@ -18,13 +19,13 @@ draft: false
 
 image:
   placement: 2
-  caption: 'Image credit: [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski)'
+  caption: 'Image credit: [**Ivan Aleksic**](https://unsplash.com/@ivalex)'
   focal_point: ""
   preview_only: false
   
 ---
 
-Paper is currently under review (blog to be updated soon...)
+...
 
 
 
