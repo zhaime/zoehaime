@@ -72,4 +72,4 @@ user_groups:
 
 I am a research associate working at the Centre for Appearance Research (CAR), University of the West of England (UWE) in Bristol, UK. I am also a part-time PhD candidate at University College London.
 
-My current research focuses on the effectiveness and acceptability of a single-session body image intervention for adolescents in Indonesian, in collaboration with Dove and UNICEF Indonesia.
+My current research focuses on the effectiveness and acceptability of a single-session body image intervention for adolescents in Indonesia, in collaboration with Dove and UNICEF Indonesia.
