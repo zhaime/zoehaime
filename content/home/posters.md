@@ -65,8 +65,9 @@ subtitle = ""
 <center><b>Poster presented at NELFT Research and Development Conference, 2020 (2nd Prize)</b>
 <br>
 
-<img src="![](/home/featured_files/ZH_POSTER_SYSREV.jpeg)" height="300px" width="200px"/>
+<img src="/home/featured_files/ZH_POSTER_SYSREV.jpeg" height="300px" width="200px"/>
 <hr width="50%" size="8" align="center">
 
 <b>Poster presented at NELFT Research and Development Conference, 2017 (2nd Prize)</b><br>
-<img src="home/featured_files/poster1.jpg" height="200px" width="300px"/>
+<img src="home/featured_files/poster1.jpg" height="300px" width="200px"/>
+<hr width="50%" size="8" align="center">
