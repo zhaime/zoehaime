@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesca Solmi | Zoë Haime</title>
+    <link>https://zoehaime.com/authors/francesca-solmi/</link>
+      <atom:link href="https://zoehaime.com/authors/francesca-solmi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesca Solmi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Francesca Solmi</title>
+      <link>https://zoehaime.com/authors/francesca-solmi/</link>
+    </image>
+    
+    <item>
+      <title>Personality traits and night eating syndrome in women with bulimia nervosa and binge eating disorder [Open Access]</title>
+      <link>https://zoehaime.com/publication/personality_traits_melunsky/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://zoehaime.com/publication/personality_traits_melunsky/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
