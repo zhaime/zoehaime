@@ -63,8 +63,8 @@ subtitle = ""
  css_class = ""
 +++
 <center><b>Poster presented at Appearance Matters 9 Conference 2021 (1st Prize)</b>
-<br>
 <img src="/home/featured_files/DOVEposter.jpeg" height="300px" width="200px"/>
+
 
 <center><b>Poster presented at NELFT Research and Development Conference, 2020 (2nd Prize)</b>
 <br>
