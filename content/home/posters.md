@@ -63,15 +63,15 @@ subtitle = ""
  css_class = ""
 +++
 <center><b>Poster presented at Appearance Matters 9 Conference 2021 (1st Prize)</b>
-<img src="/home/featured_files/DOVEposter.jpg" height="300px" width="200px"/>
+<img src="/home/featured_files/DOVEposter.jpg" height="400px" width="300px"/>
 <hr width="50%" size="10" align="center">
 
 <center><b>Poster presented at NELFT Research and Development Conference, 2020 (2nd Prize)</b>
 <br>
 
-<img src="/home/featured_files/ZH_POSTER_SYSREV.jpeg" height="300px" width="200px"/>
+<img src="/home/featured_files/ZH_POSTER_SYSREV.jpeg" height="400px" width="300px"/>
 <hr width="50%" size="10" align="center">
 
 <b>Poster presented at NELFT Research and Development Conference, 2017 (2nd Prize)</b><br>
-<img src="home/featured_files/poster1.jpg" height="300px" width="200px"/>
+<img src="home/featured_files/poster1.jpg" height="400px" width="300px"/>
 <hr width="50%" size="10" align="center">
