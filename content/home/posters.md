@@ -62,6 +62,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<center><b>Poster presented at Appearance Matters 9 Conference 2021 (1st Prize)</b>
+<br>
+![](/home/posters_files/Dove Confident Me- Single-Session Indonesia  Study Protocol.pdf)
+
 <center><b>Poster presented at NELFT Research and Development Conference, 2020 (2nd Prize)</b>
 <br>
 
