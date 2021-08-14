@@ -64,7 +64,7 @@ subtitle = ""
 +++
 <center><b>Poster presented at Appearance Matters 9 Conference 2021 (1st Prize)</b>
 <img src="/home/featured_files/DOVEposter.jpeg" height="300px" width="200px"/>
-
+<hr width="50%" size="8" align="center">
 
 <center><b>Poster presented at NELFT Research and Development Conference, 2020 (2nd Prize)</b>
 <br>
