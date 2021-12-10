@@ -18,12 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Research Associate"
+  company = "University of Bristol (UoB)"
+  company_url = ""
+  location = "Bristol, UK"
+  date_start = "2021-12-01"
+  date_end = ""
+  description = """ Qualitative research into the reasons why people access suicide and self-harm content online.
+
+  Responsibilities include:
+  
+  *Recruitment of hard-to-reach population
+  *Conducting interviews online
+  *Longitudinal Follow-up interviews
+  *Creating study documents
+  *Adapting topic guide
+  *Organising ethnographic diary study 
+  *Qualitative analysis
+  *Contributing to dissemination output
+  """
+[[experience]]
   title = "Research Associate"
   company = "Centre for Appearance Research (CAR), University of the West of England"
   company_url = ""
   location = "Bristol, UK"
   date_start = "2021-01-04"
-  date_end = ""
+  date_end = "2021-12-01"
   description = """ Research into the acceptability and effectiveness of the Dove Confident Me Single Session - body image intervention in Indonesian adolescents.
 
   Responsibilities include:
