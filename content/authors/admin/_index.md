@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate and PhD Candidate
+role: Senior Research Associate and PhD Candidate
 
 # Organizations/Affiliations
 organizations:
 - name: University College London
   url: "https://www.ucl.ac.uk/psychiatry/zoe-haime"
-
+- name: University of Bristol
+  url: "https://research-information.bris.ac.uk/en/persons/zo%C3%AB-haime"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include social cognition, mental health and psychopharmacology.
 
 interests:
 - Social Cognition
-- Psychosis
-- Neuroimaging
+- Service User Experience
+- Mental Health
 
 education:
   courses:
@@ -70,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a research associate working at the Centre for Appearance Research (CAR), University of the West of England (UWE) in Bristol, UK. I am also a part-time PhD candidate at University College London.
+I am a senior research associate working at the University of Bristol (UoB), UK. I am also a part-time PhD candidate at University College London.
 
-My current research focuses on the effectiveness and acceptability of a single-session body image intervention for adolescents in Indonesia, in collaboration with Dove and UNICEF Indonesia.
+I am currently working on the DELVE study, a qualitative research project aiming to evaluate reasons why people choose to view suicide and self-harm related content online.
