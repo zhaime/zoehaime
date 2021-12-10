@@ -23,11 +23,15 @@ publication_types: ["2"]
 publication: "*BMC Psychiatry*"
 publication_short: ""
 
-abstract: 'Introduction: Social cognition is an important area of mental functioning relevant to psychiatric disorders and social functioning, that may be affected by psychiatric drug treatments. The aim of this review was to investigate the effects of medications with sedative properties, on social cognition.
-Method: This systematic review included experimental and neuroimaging studies investigating drug effects on social cognition. Data quality was assessed using a modified Downs and Black checklist (Trac et al. CMAJ 188: E120- E129, 2016). The review used narrative synthesis to analyse the data.
-Results: 40 papers were identified for inclusion, 11 papers investigating benzodiazepine effects, and 29 investigating antipsychotic effects, on social cognition.
+abstract: '
+* Introduction: Social cognition is an important area of mental functioning relevant to psychiatric disorders and social functioning, that may be affected by psychiatric drug treatments. The aim of this review was to investigate the effects of medications with sedative properties, on social cognition.
+
+* Method: This systematic review included experimental and neuroimaging studies investigating drug effects on social cognition. Data quality was assessed using a modified Downs and Black checklist (Trac et al. CMAJ 188: E120- E129, 2016). The review used narrative synthesis to analyse the data.
+
+* Results: 40 papers were identified for inclusion, 11 papers investigating benzodiazepine effects, and 29 investigating antipsychotic effects, on social cognition.
 Narrative synthesis showed that diazepam impairs healthy volunteer’s emotion recognition, with supporting neuroimaging studies showing benzodiazepines attenuate amygdala activity. Studies of antipsychotic effects on social cognition gave variable results. However, many of these studies were in patients already taking medication, and potential practice effects were identified due to short-term follow-ups.
-Conclusion: Healthy volunteer studies suggest that diazepam reduces emotional processing ability. The effects of benzodiazepines on other aspects of social cognition, as well as the effects of antipsychotics, remain unclear. Interpretations of the papers in this review were limited by variability in measures, small sample sizes, and lack of randomisation. More robust studies are necessary to evaluate the impact of these medications on social cognition.'
+
+* Conclusion: Healthy volunteer studies suggest that diazepam reduces emotional processing ability. The effects of benzodiazepines on other aspects of social cognition, as well as the effects of antipsychotics, remain unclear. Interpretations of the papers in this review were limited by variability in measures, small sample sizes, and lack of randomisation. More robust studies are necessary to evaluate the impact of these medications on social cognition.'
 
 # Summary. An optional shortened abstract.
 summary: '🤩 My FIRST first author paper from my PhD, reviews what we currently know about the sedative effects of psychiatric medication on social cognition'
