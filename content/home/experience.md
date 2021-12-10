@@ -28,14 +28,14 @@ date_format = "Jan 2006"
 
   Responsibilities include:
   
-  *Recruitment of hard-to-reach population
-  *Conducting interviews online
-  *Longitudinal Follow-up interviews
-  *Creating study documents
-  *Adapting topic guide
-  *Organising ethnographic diary study 
-  *Qualitative analysis
-  *Contributing to dissemination output
+  * Recruitment of hard-to-reach population
+  * Conducting interviews online
+  * Longitudinal Follow-up interviews
+  * Creating study documents
+  * Adapting topic guide
+  * Organising ethnographic diary study 
+  * Qualitative analysis
+  * Contributing to dissemination output
   """
 [[experience]]
   title = "Research Associate"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   date_end = "2021-12-01"
   description = """ Research into the acceptability and effectiveness of the Dove Confident Me Single Session - body image intervention in Indonesian adolescents.
 
-  Responsibilities include:
+  Responsibilities included:
   
   * Leading acceptability sub-study
   * Collaborating with internal and external stakeholders (including associates at the University of Indonesia, University of Hawaii, Dove, UNICEF Indonesia, and Indonesian research agency - Cimigo)
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   date_end = "2020-12-30"
   description = """ Research into antipsychotic discontinuation and reduction (RADAR) is a randomised controlled trial looking at effects of antipsychotic reduction on outcome measures including social functioning, neurocognition, and symptom scores.
 
-  Responsibilities include:
+  Responsibilities included:
   
   * Recruitment, Consent, and Assessments (including PANSS/Neurocognitive tests)
   * Website and Social Media Management
