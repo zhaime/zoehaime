@@ -75,3 +75,10 @@ subtitle = ""
 <b>Poster presented at NELFT Research and Development Conference, 2017 (2nd Prize)</b><br>
 <img src="home/featured_files/poster1.jpg" height="400px" width="300px"/>
 <hr width="50%" size="10" align="center">
+
+<img src="/home/featured_files/Poster-Recovery.pdf" height="400px" width="300px"/>
+<hr width="50%" size="10" align="center">
+
+<b>Poster presented for PGDiP Final Project [service evaluation], 2017 (2nd Prize)</b><br>
+<img src="home/featured_files/poster1.jpg" height="400px" width="300px"/>
+<hr width="50%" size="10" align="center">
