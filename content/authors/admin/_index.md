@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:z.haime@ucl.ac.uk"
+  link: "mailto:zoehaime@bristol.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/zhaime
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a senior research associate working at the University of Bristol (UoB), UK. I am also a part-time PhD candidate at University College London.
+I am a senior research associate working at the University of Bristol, UK. I am also a part-time PhD candidate at University College London.
 
-I am currently working on the DELVE study, a qualitative research project aiming to evaluate reasons why people choose to view suicide and self-harm related content online.
+I am currently working on the DELVE study, a qualitative research project aiming to evaluate the harms and benefits of people viewing suicide and self-harm related content online.
