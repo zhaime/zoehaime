@@ -24,17 +24,19 @@ date_format = "Jan 2006"
   location = "Bristol, UK"
   date_start = "2021-12-01"
   date_end = ""
-  description = """ Qualitative research into the reasons why people access suicide and self-harm content online.
+  description = """ Leading on - DELVE: a longitudinal qualitative study investigating the benefits and harms of accessing suicide and self-harm content online.
 
   Responsibilities include:
   
   * Recruitment of hard-to-reach population
+  * Creation of topic guides
   * Conducting interviews online
-  * Longitudinal Follow-up interviews
   * Creating study documents
-  * Adapting topic guide
-  * Organising ethnographic diary study 
-  * Qualitative analysis
+  * Creating a data analysis plan
+  * Measuring feasibility of ethnographic diary 
+  * Managing study finance
+  * Leading trajectory analysis
+  * Creating reports and slidedecks for external agencies (Samaritans)
   * Contributing to dissemination output
   """
 [[experience]]
