@@ -14,8 +14,6 @@ role: Senior Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: University College London
-  url: "https://www.ucl.ac.uk/psychiatry/zoe-haime"
 - name: University of Bristol
   url: "https://research-information.bris.ac.uk/en/persons/zo%C3%AB-haime"
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate
+  - course: PhD in Psychiatry
     institution: University College London
   - course: PGDiP Mental Health Practice
     institution: Middlesex University
