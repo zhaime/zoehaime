@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Analysis"
   description = "Experience using qualitative and quantitative analysis techniques"  
   
 [[feature]]
   icon = "first-aid"
   icon_pack = "fas"
-  name = "Patient Experience"
+  name = "Clinical Experience"
   description = "Experience working with patient populations (mental and physical health conditions)"
   
   
@@ -49,6 +49,6 @@ subtitle = ""
   icon = "flask"
   icon_pack = "fas"
   name = "Experimental Design"
-  description = "Experience designing and conducting experiments"
+  description = "Experience designing and conducting research projects"
 
 +++
