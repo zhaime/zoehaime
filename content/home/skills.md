@@ -18,12 +18,12 @@ subtitle = ""
   icon = "lightbulb"
   icon_pack = "fas"
   name = "Public Engagement"
-  description = "Public engagement with a variety of audiences"
+  description = "Experience conducting public engagement with a variety of audiences"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Analysis"
+  name = "Analysis Techniques"
   description = "Experience using qualitative and quantitative analysis techniques"  
   
 [[feature]]
@@ -34,10 +34,10 @@ subtitle = ""
   
   
 [[feature]]
-  icon = "brain"
+  icon = "chalkboard"
   icon_pack = "fas"
-  name = "Neuroimaging"
-  description = " Experience using fMRI, EEG, and TMS"
+  name = "Teaching and Supervision"
+  description = " Experience teaching and supervising MSc students"
   
 [[feature]]
   icon = "users"
