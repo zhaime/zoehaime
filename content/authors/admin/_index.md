@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zoë Haime
+name: Dr Zoë Haime
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Associate and PhD Candidate
+role: Senior Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
 - name: University of Bristol
   url: "https://research-information.bris.ac.uk/en/persons/zo%C3%AB-haime"
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social cognition, mental health and psychopharmacology.
+bio: My research interests include social cognition, mental health and online harms.
 
 interests:
 - Social Cognition
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate [current]
+  - course: PhD Candidate
     institution: University College London
   - course: PGDiP Mental Health Practice
     institution: Middlesex University
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:zoehaime@bristol.ac.uk"
+  link: "mailto:zoe.haime@bristol.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/zhaime
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a senior research associate working at the University of Bristol, UK. I am also a part-time PhD candidate at University College London.
+I am a senior research associate working at the University of Bristol, UK.
 
-I am currently working on the DELVE study, a qualitative research project aiming to evaluate the harms and benefits of people viewing suicide and self-harm related content online.
+I am currently working on the Digital Dialogues study, a research project aiming to co-create knowledge resources about the online world for clinicians working with young people around their mental health.
