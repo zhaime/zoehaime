@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "lightbulb"
-  icon_pack = "fat"
+  icon_pack = "fas"
   name = "Public Engagement"
   description = "Public engagement with a variety of audiences"
   
