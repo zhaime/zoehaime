@@ -71,4 +71,4 @@ user_groups:
 
 I am a senior research associate working at the University of Bristol, UK.
 
-I am currently working on the Digital Dialogues study, a research project aiming to co-create knowledge resources about the online world for clinicians working with young people around their mental health.
+I am currently working on the Digital Dialogues study, a research project aiming to co-create knowledge resources about the impact of the online world on mental health for clinicians working with young people.
