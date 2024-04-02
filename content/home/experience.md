@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   * Managing study finance
   * Contributing to dissemination output
 <br> 
-  Previously worked on - DELVE: a longitudinal qualitative study investigating the benefits and harms of accessing suicide and self-harm content online.<br>
-
+  Previously worked on - DELVE: a longitudinal qualitative study investigating the benefits and harms of accessing suicide and self-harm content online.
+    
     Responsibilities included:
   
   * Recruitment of hard-to-reach population
