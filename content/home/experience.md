@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-12-01"
   date_end = ""
   description = """ 
-  Currently working on - Digital Dialoges: a co-creation (with young people) art-based research project, aiming to produce resources for mental health practitioners to improve their ability to communicate with young people about the impact of the online world on mental health.
+  Currently working on - Digital Dialoges: a co-creation (with young people) art-based research project, aiming to produce resources for mental health practitioners to improve their ability to communicate with young people about the impact of the online world on mental health.<br>
     
     Responsibilities include:
   
@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   * Creating study documents
   * Managing study finance
   * Contributing to dissemination output
-  
-  Previously worked on - DELVE: a longitudinal qualitative study investigating the benefits and harms of accessing suicide and self-harm content online.
+<br><br>  
+  Previously worked on - DELVE: a longitudinal qualitative study investigating the benefits and harms of accessing suicide and self-harm content online.<br>
 
     Responsibilities included:
   

@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-02-20"
   date_end = "2023-07-28"
-  description = """I completed a part-time PhD investigating the effects of antipsychotic discontinuation and reduction on social cognitive ability in schizophrenia-spectrum patients"""
+  description = """PhD completed on a part-time basis - Investigating the effects of antipsychotic discontinuation and reduction on social cognitive ability in patients with a schizophrenia-spectrum disorder"""
 
 [[item]]
   organization = "Middlesex University"
