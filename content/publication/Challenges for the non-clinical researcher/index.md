@@ -61,4 +61,4 @@ projects: []
 slides: ""
 ---
 
-**[Read Open Access Here](https://explore.bps.org.uk/content/bpspag/1/119/26?implicit-login=true)**
+**[Read Here](https://explore.bps.org.uk/content/bpspag/1/119/26?implicit-login=true)**
