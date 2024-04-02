@@ -35,9 +35,6 @@ tags:
 - Eating Disorders
 featured: false
 
-# links:
-# - name: "Read Open Access Here!"
-#   url: "https://link.springer.com/article/10.1007%2Fs40519-021-01221-5"
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -52,7 +49,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Jeremy Thomas**](https://unsplash.com/photos/O6N9RV2rzX8)'
   focal_point: ""
-  preview_only: false![](featured)
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -69,6 +66,4 @@ projects: []
 slides: ""
 ---
 
-
-
-
+**[Read Open Access Here](https://link.springer.com/article/10.1007/s40519-021-01221-5)**
