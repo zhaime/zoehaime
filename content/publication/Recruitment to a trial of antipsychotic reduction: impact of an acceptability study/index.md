@@ -28,9 +28,7 @@ Results: In a sample of 210 participants, 151 (71.9%) expressed an interest in t
 wanting to take part, and concern about randomisation for not wanting to. Ultimately 57 people enrolled in the trial (27.1% of the original sample). Eighty-five people who initially expressed an interest did not enrol due to declining or not being eligible (for clinical reasons). Women and people from a white ethnic background were more likely to enrol in the trial, but no illness or treatment-related characteristics were associated with enrolment.
 Conclusion: An acceptability study can be a useful tool for recruitment to challenging trials, but it may over-estimate recruitment.'
 
-# links:
-# - name: "Read Open Access Here!"
-#   url: "https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-01881-0"
+<b> Read Open Access Here </b>:"https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-01881-0"
 
 # Summary. An optional shortened abstract.
 summary: 'Experiences from running an acceptability trial when recruiting to challenging RCTs with hard-to-reach populations'
