@@ -23,6 +23,8 @@ interests:
 - Social Cognition
 - Service User Experience
 - Mental Health
+- Digital Wellbeing
+- Creative Research Methods
 
 education:
   courses:
