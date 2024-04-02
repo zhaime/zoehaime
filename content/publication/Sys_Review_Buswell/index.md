@@ -34,9 +34,6 @@ tags:
 - Science
 featured: false
 
-# links:
-# - name: "Read Open Access Here!"
-#   url: "https://link.springer.com/epdf/10.1186/s12888-020-02999-x?sharing_token=NQyw5bT-_Xv4D3Ri08Vj-W_BpE1tBhCbnbw3BuzI2RMGEbTdYnvUYmdxtQdTF0tAtp9IVESyt__J5FYcoMUWJqGsL5u9IU9WXUOgTEtAbT73aoXAcRDhikj1vlhjzL3-dbVgL-74dZIben3yl1MWvR3SmTqCudAxt4atYenurmo%3D"
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -68,6 +65,4 @@ projects: []
 slides: ""
 ---
 
-
-
-
+**[Read Open Access Here](https://link.springer.com/epdf/10.1186/s12888-020-02999-x?sharing_token=NQyw5bT-_Xv4D3Ri08Vj-W_BpE1tBhCbnbw3BuzI2RMGEbTdYnvUYmdxtQdTF0tAtp9IVESyt__J5FYcoMUWJqGsL5u9IU9WXUOgTEtAbT73aoXAcRDhikj1vlhjzL3-dbVgL-74dZIben3yl1MWvR3SmTqCudAxt4atYenurmo=)**
