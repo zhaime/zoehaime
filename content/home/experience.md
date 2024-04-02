@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   * Conducting focus groups & interviews online
   * Creating study documents
   * Managing study finance
-  * Contributing to dissemination output
+  * Contributing to dissemination output<br>
   
   Previously worked on - DELVE: a longitudinal qualitative study investigating the benefits and harms of accessing suicide and self-harm content online.
   
