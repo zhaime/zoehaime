@@ -1,10 +1,10 @@
 ---
 title: "Recruitment to a trial of antipsychotic reduction: impact of an acceptability study [Open Access]"
 authors:
-- Georgie Ramsay
-- admin
-- Nadia Crellin
-- Joanna Moncrieff
+  - Georgie Ramsay
+  - admin
+  - Nadia Crellin
+  - Joanna Moncrieff
 date: "2023-03-29T00:00:00Z"
 doi: ""
 
@@ -21,16 +21,16 @@ publication_types: ["2"]
 publication: "*BMC Medical Research Methodology*"
 publication_short: ""
 
-abstract: 
-'Objectives: Pre-trial acceptability studies may boost recruitment, especially in trials comparing distinctly different interventions. We evaluated the impact of an acceptability study on recruitment to a randomised trial of antipsychotic reduction versus maintenance treatment and explored demographic and clinical predictors of subsequent enrolment.<br><br> Methods: Participants with a diagnosis of a schizophrenia spectrum disorder who were taking antipsychotic medication were interviewed about their views of taking part in a future trial.<br><br> Results: In a sample of 210 participants, 151 (71.9%) expressed an interest in taking part in the future trial, 16 (7.6%) said they might be interested, and 43 (20.5%) said they were not. Altruistic reasons were most commonly given for wanting to take part, and concern about randomisation for not wanting to. Ultimately 57 people enrolled in the trial (27.1% of the original sample). Eighty-five people who initially expressed an interest did not enrol due to declining or not being eligible (for clinical reasons). Women and people from a white ethnic background were more likely to enrol in the trial, but no illness or treatment-related characteristics were associated with enrolment.<br><br> Conclusion: An acceptability study can be a useful tool for recruitment to challenging trials, but it may over-estimate recruitment.'<br><br>
+abstract: |
+  Objectives: Pre-trial acceptability studies may boost recruitment, especially in trials comparing distinctly different interventions. We evaluated the impact of an acceptability study on recruitment to a randomised trial of antipsychotic reduction versus maintenance treatment and explored demographic and clinical predictors of subsequent enrolment.<br><br> Methods: Participants with a diagnosis of a schizophrenia spectrum disorder who were taking antipsychotic medication were interviewed about their views of taking part in a future trial.<br><br> Results: In a sample of 210 participants, 151 (71.9%) expressed an interest in taking part in the future trial, 16 (7.6%) said they might be interested, and 43 (20.5%) said they were not. Altruistic reasons were most commonly given for wanting to take part, and concern about randomisation for not wanting to. Ultimately 57 people enrolled in the trial (27.1% of the original sample). Eighty-five people who initially expressed an interest did not enrol due to declining or not being eligible (for clinical reasons). Women and people from a white ethnic background were more likely to enrol in the trial, but no illness or treatment-related characteristics were associated with enrolment.<br><br> Conclusion: An acceptability study can be a useful tool for recruitment to challenging trials, but it may over-estimate recruitment.
 
 # Summary. An optional shortened abstract.
 summary: 'Experiences from running an acceptability trial when recruiting to challenging RCTs with hard-to-reach populations'
 
 tags:
-- Research
-- Science
-- Psychosis
+  - Research
+  - Science
+  - Psychosis
 featured: false
 
 url_pdf: 
@@ -47,7 +47,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Andrew Moca**](https://unsplash.com/photos/text-yAGNjU4rtss)'
   focal_point: ""
-  preview_only: false![](featured)
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
