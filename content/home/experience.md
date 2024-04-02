@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   
   Previously worked on - DELVE: a longitudinal qualitative study investigating the benefits and harms of accessing suicide and self-harm content online.
 
-  Responsibilities included:
+    Responsibilities included:
   
   * Recruitment of hard-to-reach population
   * Creation of topic guides
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   date_end = "2021-12-01"
   description = """ Research into the acceptability and effectiveness of the Dove Confident Me Single Session - body image intervention in Indonesian adolescents.
 
-  Responsibilities included:
+    Responsibilities included:
   
   * Leading acceptability sub-study
   * Collaborating with internal and external stakeholders (including associates at the University of Indonesia, University of Hawaii, Dove, UNICEF Indonesia, and Indonesian research agency - Cimigo)
@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   date_end = "2020-12-30"
   description = """ Research into antipsychotic discontinuation and reduction (RADAR) is a randomised controlled trial looking at effects of antipsychotic reduction on outcome measures including social functioning, neurocognition, and symptom scores.
 
-  Responsibilities included:
+    Responsibilities included:
   
   * Recruitment, Consent, and Assessments (including PANSS/Neurocognitive tests)
   * Website and Social Media Management
@@ -102,7 +102,8 @@ date_format = "Jan 2006"
   date_start = "2016-01-02"
   date_end = "2017-01-20"
   description = """
-  Responsibilities included:
+    
+    Responsibilities included:
   
   * Co-facilitating Psychology and Occupational Therapy Groups
   * Co-facilitating Psychoeducation groups
@@ -123,7 +124,7 @@ date_format = "Jan 2006"
   date_end = "2016-01-02"
   description = """ Life Study was a cohort trial looking at children prenatally and following them and their parents up frequently throughout their lifetimes. Measures included psychometric tests, observational studies, anthropometry measurements, biological samples, and vision assessments.
   
-  Responsibilities included:
+    Responsibilities included:
   
   * Participant Recruitment
   * Phlebotomy and Biological Sample Taking
