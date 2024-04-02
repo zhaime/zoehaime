@@ -42,9 +42,6 @@ tags:
 - Social Cognition
 featured: false
 
-# links:
-# - name: "Read Open Access Here!"
-#   url: "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03545-z"
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -57,9 +54,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Christina Victoria Craft**](https://unsplash.com![]/photos/WHSnkIwWpec)'
+  caption: 'Image credit: [**Christina Victoria Craft**](https://unsplash.com/photos/WHSnkIwWpec)'
   focal_point: ""
-  preview_only: false![](featured)
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -76,6 +73,4 @@ projects: []
 slides: ""
 ---
 
-
-
-
+**[Read Open Access Here](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03545-z)**
