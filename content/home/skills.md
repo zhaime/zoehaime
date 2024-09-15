@@ -37,7 +37,7 @@ subtitle = ""
   icon = "chalkboard"
   icon_pack = "fas"
   name = "Teaching and Supervision"
-  description = " Experience teaching and supervising MSc students"
+  description = " Experience teaching and supervising students"
   
 [[feature]]
   icon = "users"

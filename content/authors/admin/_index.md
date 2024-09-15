@@ -73,4 +73,4 @@ user_groups:
 
 I am a postdoctoral researcher, working at the University of Bristol, UK.
 
-I am currently working on the Digital Dialogues project, a research study aiming to co-create knowledge resources about the impact of the online world on mental health for clinicians working with young people. I also work on additional projects exploring moderation of online mental health spaces.
+I am currently working on the DIARY study, designing and piloting a journal-based intervention for improving online use amongst young people. I also work on the Digital Dialogues project, where we are creating a training package for mental health professionals aiding them with conversations with young people about online use. In addition, I conducts work that explores moderation of online mental health spaces.

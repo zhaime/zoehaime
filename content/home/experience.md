@@ -25,7 +25,20 @@ date_format = "Jan 2006"
   date_start = "2021-12-01"
   date_end = ""
   description = """ 
-  Currently working on - Digital Dialoges: a co-creation (with young people) art-based research project, aiming to produce resources for mental health practitioners to improve their ability to communicate with young people about the impact of the online world on mental health.<br>
+  Currently working on - the DIARY study and Digital Dialogues II:
+  Co-creation projects, working with children and young people and mental health professionals. The DIARY study aims to develop and pilot a journal-based intervention for improving online use amongst young people. The Digital Dialogues II study aims to build on the resources developed during Digital Dialogues I, to create a training package for mental health professionals on speaking to young people about their online use.
+  
+  Responsibilities include:
+  
+  * Ethics applications
+  * Recruiting and managing workshops
+  * Creation of topic guides/surveys
+  * Creating study documents
+  * Managing study finance
+  * Running day-to-day project work
+  * Contributing to dissemination output<br>
+  
+  Previously worked on - Digital Dialogues I: a co-creation (with young people) art-based research project, aiming to produce resources for mental health practitioners to improve their ability to communicate with young people about the impact of the online world on mental health.<br>
     
     Responsibilities include:
   
