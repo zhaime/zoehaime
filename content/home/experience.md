@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   * Creating study documents
   * Managing study finance
   * Running day-to-day project work
-  * Contributing to dissemination output<br>
+  * Contributing to dissemination output<br><br>
   
   Previously worked on - Digital Dialogues I: a co-creation (with young people) art-based research project, aiming to produce resources for mental health practitioners to improve their ability to communicate with young people about the impact of the online world on mental health.
     
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   * Conducting focus groups & interviews online
   * Creating study documents
   * Managing study finance
-  * Contributing to dissemination output<br>
+  * Contributing to dissemination output<br><br>
   
   Previously worked on - DELVE: a longitudinal qualitative study investigating the benefits and harms of accessing suicide and self-harm content online.
   
