@@ -16,7 +16,7 @@ publishDate: "2024-12-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PLOS Digital Health*"
+publication: "*JCPP Advances*"
 publication_short: ""
 
 abstract: 'The importance of embedding participatory methods within youth mental health research is well accepted and often a funding prerequisite. However, we argue that there is a need to revisit the core values of the approach in order to ensure that participatory methods remain meaningful, effective and authentic. This should entail rigorously examining ‘why’ and ‘how’ to approach participatory methods - not merely outlining the ‘what’ and ‘when’. We need to prioritise the naturalistic epistemic advantage youth can bring to our research, assigning them a unique collaborative role to reflect this rather than seeking to professionalise our participants. Similarly, we should explore innovative methods to empower youth to apply their lived experience and knowledge alongside the researcher. Equally, we must continue to reflect on our roles as researcher, ensuring we develop the skills necessary for participatory research with children and young people.'
