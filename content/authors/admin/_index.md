@@ -17,7 +17,7 @@ organizations:
 - name: University of Bristol
   url: "https://research-information.bris.ac.uk/en/persons/zo%C3%AB-haime"
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social cognition, mental health and online harms.
+bio: My research interests include mental health populations and online activity.
 
 interests:
 - Social Cognition
