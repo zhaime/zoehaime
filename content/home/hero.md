@@ -8,7 +8,6 @@ subtitle = "Digital mental health researcher"
 
 # Optional styling
 [design.background]
-  [design.background]
   color = "#d7c4b6"      # light latte beige
   text_color_light = false
 
