@@ -11,9 +11,10 @@ menu_text_active = "#f0d9b5"                     # light brass
 menu_title       = "#ffffff"
 
 # Backgrounds
-background        = "#f4ebdb"                    # parchment
-home_section_odd  = "#f0e3cc"
-home_section_even = "#eadfc5"
+background        = "#dcd1c5"
+home_section_odd  = "#d4c8bb"
+home_section_even = "#cfc3b6"
+
 
 # Links & buttons
 link               = "#b08d57"
