@@ -3,17 +3,18 @@ widget = "hero"      # homepage section type
 active = true
 weight = 1           # order on the page (lower = higher)
 
-title = "Zoë Haime"
+title = "Dr Zoë Haime | PhD, PGDip, MSc, BSc (Hons)"
 subtitle = "Digital mental health researcher"
 
 # Optional styling
 [design.background]
-  color = "#795548"          # Coffee navbar brown as a band
-  text_color_light = true    # makes hero text light
+  [design.background]
+  color = "#d7c4b6"      # light latte beige
+  text_color_light = false
 
 # Optional CTA button
 [cta]
   label = "View publications"
   url = "/publication/"
 +++
-Welcome! I am **Zoë Haime**, exploring young people’s online experiences, digital wellbeing, and clinical practice. This site is my research footprint — publications, projects, and how to get in touch.
+Dr **Zoë Haime**, senior research associate at the University of Bristol Medical School. Currently exploring relationships between online experiences, wellbeing, and clinical practice.
