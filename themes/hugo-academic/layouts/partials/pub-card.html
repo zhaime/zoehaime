@@ -1,18 +1,22 @@
 <article class="pub-card" data-year="{{ .Date.Format "2006" }}">
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 
-  {{/* Build a display list of author names from slugs */}}
+  {{/* Build a display list of author names from slugs (works on older Hugo) */}}
   {{- $names := slice -}}
-  {{- range .Params.authors -}}
-    {{- with site.GetPage (printf "authors/%s" .) -}}
-      {{- $names = $names | append .Title -}}
-    {{- else -}}
-      {{- $names = $names | append . -}}  {{/* fall back to raw string if no profile */}}
+  {{- with .Params.authors -}}
+    {{- range . -}}
+      {{- with $.Site.GetPage (printf "authors/%s" .) -}}
+        {{- $names = $names | append .Title -}}
+      {{- else -}}
+        {{- $names = $names | append . -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 
-  <p><strong>{{ delimit $names ", " }}</strong><br>
-     {{ with .Params.publication }}{{ . }}{{ end }}{{ if .Date }} ({{ .Date.Format "2006" }}){{ end }}</p>
+  <p>
+    <strong>{{ if gt (len $names) 0 }}{{ delimit $names ", " }}{{ end }}</strong><br>
+    {{ with .Params.publication }}{{ . }}{{ end }}{{ if .Date }} ({{ .Date.Format "2006" }}){{ end }}
+  </p>
 
   {{ with .Params.abstract }}
     <details><summary>Abstract</summary>{{ . | markdownify }}</details>
