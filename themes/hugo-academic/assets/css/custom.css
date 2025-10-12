@@ -7,3 +7,25 @@
 }
 .pub-card h3 { margin-top:0; }
 details summary { cursor:pointer; font-weight:600; }
+/* Reduce the vertical gap between sections */
+.home-section {            /* all homepage sections */
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+}
+
+/* Make the hero a bit tighter specifically */
+#hero.home-section {
+  padding-bottom: 1rem !important;
+}
+
+/* Nudge the next section (about/biography) up a touch */
+#about.home-section,
+#biography.home-section {
+  padding-top: 1rem !important;
+}
+
+/* Trim extra space from headings/first paragraph inside sections */
+.home-section .section-heading { margin-bottom: .75rem !important; }
+#hero .hero-title { margin-bottom: .25rem !important; }
+#hero .hero-subtitle,
+#hero .lead { margin-bottom: .5rem !important; }

@@ -266,4 +266,8 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+  
+[params]
+  customCSS = ["css/custom.css"]
+
 
