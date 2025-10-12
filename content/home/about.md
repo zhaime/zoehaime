@@ -17,5 +17,5 @@ align = "center"
   text_color_light = false
 
 # Which profile to show
-author = "admin"
+authors = "admin"
 +++
