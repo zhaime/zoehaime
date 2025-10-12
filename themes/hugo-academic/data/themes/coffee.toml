@@ -11,7 +11,7 @@ menu_text_active = "#f0d9b5"                     # light brass
 menu_title       = "#ffffff"
 
 # Backgrounds
-background        = "#dcd1c5"
+background        = "#d7c4b6"
 home_section_odd  = "#d4c8bb"
 home_section_even = "#cfc3b6"
 

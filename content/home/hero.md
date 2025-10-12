@@ -3,8 +3,10 @@ widget = "hero"      # homepage section type
 active = true
 weight = 1           # order on the page (lower = higher)
 
-title = "Dr Zoë Haime | PhD, PGDip, MSc, BSc Hons"
-subtitle = "Digital mental health researcher"
+title = "Dr Zoë Haime"
+subtitle = "PhD, PGDip, MSc, BSc Hons"
+tagline = "PhD, PGDip, MSc, BSc (Hons)"
+
 
 # Optional styling
 [design.background]
@@ -16,4 +18,4 @@ subtitle = "Digital mental health researcher"
   label = "View publications"
   url = "/publication/"
 +++
-Dr **Zoë Haime**, senior research associate at the University of Bristol Medical School. Currently exploring relationships between online experiences, wellbeing, and clinical practice.
+Dr **Zoë Haime**, senior research associate at the University of Bristol Medical School. Digital mental health researcher currently exploring relationships between online experiences, wellbeing, and clinical practice.
