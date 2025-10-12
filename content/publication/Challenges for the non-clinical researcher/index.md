@@ -19,8 +19,6 @@ publication_types: ["2"]
 publication: "*PsyPag Quarterly*"
 publication_short: ""
 
-abstract: 'Mental health research aims to improve our understanding of illnesses, provide better preventative approaches, enhance diagnosis and treatment strategies, increase our understanding of biological markers of disorders, and progress our knowledge of co-morbidities between physical and mental health. A need exists to engage researchers in undertaking work in this field, however we rarely consider the barriers in place for a non-clinical researcher working in the mental health environment. This article aims to reflect on barriers to conducting research as a non-clinical researcher in a clinical mental health setting and to consider approaches to overcoming these barriers.'
-
 # Summary. An optional shortened abstract.
 summary: 'Important considerations for the non-clinical researcher working in NHS Mental Health Services.'
 

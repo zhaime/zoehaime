@@ -22,21 +22,6 @@ publication_types: ["2"]
 publication: "*Evidence-Based Practice in Child and Adolescent Mental Health*"
 publication_short: ""
 
-abstract: 'Background
-Digital technology use by children and young people (CYP) has been linked to mental health issues. Currently, mental health professionals (MHPs) lack clear guidance on addressing the impact of digital use on CYP mental health.
-
-Objectives
-This study aimed to identify the training needs and preferences of MHPs, in having these discussions with CYP.
-
-Method
-We conducted an online survey of MHPs from the UK and Ireland. The survey covered topics including, barriers encountered during discussions, and MHP training and resource needs. Descriptive statistics were used to analyze quantitative data, and content analysis was used to explore qualitative responses.
-
-Results
-A total of 133 MHPs responded: primarily female (79.7%), white (90.8%), working in secondary care services (69.2%), with extensive experience working with CYP (47.4% 10+yrs). Although nearly half reported frequently discussing online activity with CYP, the majority lacked adequate training and resources. Barriers included concerns about relevance, limited knowledge, and practical limitations. MHPs expressed interest in training on communication strategies and enhancing understanding of online risks. Additionally, they preferred resources co-created with CYP, featuring real-life examples and perspectives.
-
-Conclusions
-Gaps in MHPs’ readiness to address digital aspects of CYP mental health highlight the necessity for organizational-level changes and tailored training initiatives. Emphasizing collaborative efforts with CYP in resource development is crucial to create accessible and inclusive materials, that MHPs want to engage with. Further, MHPs prioritize the development of assessment tools, evidence-based interventions, and best practice guidelines to enhance approaches to these discussions, and limit disparities in quality of care.'
-
 # Summary. An optional shortened abstract.
 summary: 'We identified the training needs and preferences of mental health professionals, in having discussions around online use with CYP'
 

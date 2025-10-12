@@ -24,8 +24,6 @@ publication_types: ["2"]
 publication: "*Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity*"
 publication_short: ""
 
-abstract: 'Previous research suggests that eating disorders may be associated with certain personality profiles; however, there is limited research investigating associations with night eating syndrome (NES). This research suggests harm avoidance personality trait is higher in NES individuals than in the general population, however, evidence of associations with other personality traits is inconsistent. To understand which personality traits are associated with NES symptoms, the current study aimed to improve understanding of the relationship between NES symptoms and a range of personality traits, addressing limitations in the earlier literature in this area by controlling for common confounders.'
-
 # Summary. An optional shortened abstract.
 summary: '🔊Exciting 🆕 paper shows that harm-avoidance personality traits are higher in individuals with night-eating syndrome (NES), than in the general population'
 
