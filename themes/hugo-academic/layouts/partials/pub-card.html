@@ -1,14 +1,25 @@
 <article class="pub-card" data-year="{{ .Date.Format "2006" }}">
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-  <p><strong>{{ delimit .Params.authors ", " }}</strong><br>
-     {{ .Params.publication }} ({{ .Date.Format "2006" }})</p>
+
+  {{/* Build a display list of author names from slugs */}}
+  {{- $names := slice -}}
+  {{- range .Params.authors -}}
+    {{- with site.GetPage (printf "authors/%s" .) -}}
+      {{- $names = $names | append .Title -}}
+    {{- else -}}
+      {{- $names = $names | append . -}}  {{/* fall back to raw string if no profile */}}
+    {{- end -}}
+  {{- end -}}
+
+  <p><strong>{{ delimit $names ", " }}</strong><br>
+     {{ with .Params.publication }}{{ . }}{{ end }}{{ if .Date }} ({{ .Date.Format "2006" }}){{ end }}</p>
 
   {{ with .Params.abstract }}
-  <details><summary>Abstract</summary>{{ . | markdownify }}</details>
+    <details><summary>Abstract</summary>{{ . | markdownify }}</details>
   {{ end }}
 
   <p>
-    {{ with .Params.url_pdf }}<a href="{{ . }}" target="_blank">PDF</a>{{ end }}
-    {{ with .Params.doi }} · <a href="https://doi.org/{{ . }}" target="_blank">DOI</a>{{ end }}
+    {{ with .Params.url_pdf }}<a href="{{ . }}" target="_blank" rel="noopener">PDF</a>{{ end }}
+    {{ with .Params.doi }}{{ if $.Params.url_pdf }} · {{ end }}<a href="https://doi.org/{{ . }}" target="_blank" rel="noopener">DOI</a>{{ end }}
   </p>
 </article>
