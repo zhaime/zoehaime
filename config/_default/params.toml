@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "rose"
+theme = "forest"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -266,7 +266,4 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
-
-[params]
-  customCSS = ["css/custom.css"]
 

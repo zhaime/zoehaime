@@ -1,18 +1,12 @@
 # Theme metadata
 name = "Forest"
 
-# Is theme light or dark?
-light = true
+primary = "#b08d57"         # brass accent
+menu_primary = "#0f0e0d"    # espresso background for navbar
+menu_text = "#e9e4d8"       # parchment text
+menu_text_active = "#d8c99b"
+menu_title = "#e9e4d8"
 
-# Primary
-primary = "#4caf50"
-
-# Menu
-menu_primary = "#4caf50"
-menu_text = "#fff"
-menu_text_active = "#1b5e20"
-menu_title = "#fff"
-
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+background = "#0f0e0d"
+home_section_odd  = "#1a1816"
+home_section_even = "#141210"
