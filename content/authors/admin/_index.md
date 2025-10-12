@@ -20,10 +20,8 @@ organizations:
 bio: My research interests include mental health populations and online activity.
 
 interests:
-- Social Cognition
 - Service User Experience
-- Mental Health
-- Digital Wellbeing
+- Digital Mental Health
 - Creative Research Methods
 
 education:
