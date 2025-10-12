@@ -1,5 +1,5 @@
 ---
-title: "Personality traits and night eating syndrome in women with bulimia nervosa and binge eating disorder [Open Access]"
+title: "Personality traits and night eating syndrome in women with bulimia nervosa and binge eating disorder"
 authors:
 - Natasha D Melunsky
 - Francesca Solmi

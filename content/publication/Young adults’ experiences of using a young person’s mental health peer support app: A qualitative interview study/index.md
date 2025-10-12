@@ -1,5 +1,5 @@
 ---
-title: "Young adults’ experiences of using a young person’s mental health peer support app: A qualitative interview study [Open Access]"
+title: "Young adults’ experiences of using a young person’s mental health peer support app: A qualitative interview study"
 authors:
 - Bethany Cliffe
 - Myles-Jay Linton

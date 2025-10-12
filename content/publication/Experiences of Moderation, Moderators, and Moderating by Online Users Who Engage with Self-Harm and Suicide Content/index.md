@@ -1,5 +1,5 @@
 ---
-title: "Experiences of Moderation, Moderators, and Moderating by Online Users Who Engage with Self-Harm and Suicide Content [Open Access]"
+title: "Experiences of Moderation, Moderators, and Moderating by Online Users Who Engage with Self-Harm and Suicide Content"
 authors:
 - admin
 - Laura Kennedy

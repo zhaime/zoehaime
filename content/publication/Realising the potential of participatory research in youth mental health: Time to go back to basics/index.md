@@ -1,5 +1,5 @@
 ---
-title: "Realising the potential of participatory research in youth mental health: Time to go back to basics [Open Access Editorial]"
+title: "Realising the potential of participatory research in youth mental health: Time to go back to basics"
 authors:
 - Lucy Biddle
 - admin

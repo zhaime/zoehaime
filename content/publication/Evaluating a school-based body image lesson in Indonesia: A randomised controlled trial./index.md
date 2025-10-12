@@ -1,5 +1,5 @@
 ---
-title: "Evaluating a school-based body image lesson in Indonesia: A randomised controlled trial [Open Access]"
+title: "Evaluating a school-based body image lesson in Indonesia: A randomised controlled trial"
 authors:
 - Nadia Craddock
 - Mahira Budhraja

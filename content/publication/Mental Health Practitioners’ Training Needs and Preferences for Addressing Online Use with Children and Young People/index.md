@@ -1,5 +1,5 @@
 ---
-title: "Mental Health Practitioners’ Training Needs and Preferences for Addressing Online Use with Children and Young People [Open Access]"
+title: "Mental Health Practitioners’ Training Needs and Preferences for Addressing Online Use with Children and Young People"
 authors:
 - admin
 - Georgina Griffiths

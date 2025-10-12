@@ -1,5 +1,5 @@
 ---
-title: "The Journey of Engaging With Web-Based Self-Harm and Suicide Content: Longitudinal Qualitative Study [Open Access]"
+title: "The Journey of Engaging With Web-Based Self-Harm and Suicide Content: Longitudinal Qualitative Study"
 authors:
 - admin
 - Laura Kennedy

@@ -1,5 +1,5 @@
 ---
-title: "Recruitment to a trial of antipsychotic reduction: impact of an acceptability study [Open Access]"
+title: "Recruitment to a trial of antipsychotic reduction: impact of an acceptability study"
 authors:
   - Georgie Ramsay
   - admin

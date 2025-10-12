@@ -1,5 +1,5 @@
 ---
-title: "A systematic review of the effects of psychiatric medications on social cognition [Open Access]"
+title: "A systematic review of the effects of psychiatric medications on social cognition"
 authors:
 - admin
 - Andrew J Watson

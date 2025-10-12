@@ -1,5 +1,5 @@
 ---
-title: "Implementation, Adoption, and Perceptions of Telemental Health during the COVID-19 Pandemic: Systematic Review [Open Access]"
+title: "Implementation, Adoption, and Perceptions of Telemental Health during the COVID-19 Pandemic: Systematic Review"
 authors:
   - Rebecca Appleton
   - Julie Williams

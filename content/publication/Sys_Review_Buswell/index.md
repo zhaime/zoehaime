@@ -1,5 +1,5 @@
 ---
-title: "A systematic review of PTSD to the experience of psychosis: prevalence and associated factors [Open Access]"
+title: "A systematic review of PTSD to the experience of psychosis: prevalence and associated factors"
 authors:
 - Georgie Buswell
 - admin
