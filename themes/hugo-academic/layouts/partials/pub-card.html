@@ -1,14 +1,20 @@
 <article class="pub-card" data-year="{{ .Date.Format "2006" }}">
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 
-  {{/* Build a display list of author names from slugs (works on older Hugo) */}}
+  {{/* Author list with fallbacks (fixes admin showing blank) */}}
   {{- $names := slice -}}
   {{- with .Params.authors -}}
-    {{- range . -}}
-      {{- with $.Site.GetPage (printf "authors/%s" .) -}}
-        {{- $names = $names | append .Title -}}
+    {{- range $i, $a := . -}}
+      {{- with $.Site.GetPage (printf "authors/%s" $a) -}}
+        {{- $n := .Title -}}
+        {{- if not $n }}{{ $n = .Params.name }}{{ end -}}
+        {{- if $n }}
+          {{- $names = $names | append $n -}}
+        {{- else -}}
+          {{- $names = $names | append $a -}}
+        {{- end -}}
       {{- else -}}
-        {{- $names = $names | append . -}}
+        {{- $names = $names | append $a -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
@@ -19,11 +25,11 @@
   </p>
 
   {{ with .Params.abstract }}
-    <details><summary>Abstract</summary>{{ . | markdownify }}</details>
+  <details><summary>Abstract</summary>{{ . | markdownify }}</details>
   {{ end }}
 
   <p>
-    {{ with .Params.url_pdf }}<a href="{{ . }}" target="_blank" rel="noopener">PDF</a>{{ end }}
-    {{ with .Params.doi }}{{ if $.Params.url_pdf }} · {{ end }}<a href="https://doi.org/{{ . }}" target="_blank" rel="noopener">DOI</a>{{ end }}
+    {{ with .Params.url_pdf }}<a href="{{ . }}" target="_blank">PDF</a>{{ end }}
+    {{ with .Params.doi }} · <a href="https://doi.org/{{ . }}" target="_blank">DOI</a>{{ end }}
   </p>
 </article>
