@@ -1,21 +1,15 @@
 +++
-# About widget
-widget  = "about"
-headless = true
-active   = true
-weight   = 20
-title    = ""
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear in.
 
-# Make it a single, centered column
-align = "center"
+title = ""
 
-[design]
-  columns = "1"
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
 
-[design.background]
-  color = "#d7c4b6"
-  text_color_light = false
-
-# Which profile to show
-authors = ["admin"]
 +++
