@@ -18,4 +18,4 @@ tagline = "PhD, PGDip, MSc, BSc (Hons)"
   label = "View publications"
   url = "/publication/"
 +++
-|PhD, PGDip, MSc, BSc (Hons)|
+PhD, PGDip, MSc, BSc (Hons)
