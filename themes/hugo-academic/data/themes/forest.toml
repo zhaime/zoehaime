@@ -1,12 +1,33 @@
 # Theme metadata
 name = "Forest"
 
-primary = "#b08d57"         # brass accent
-menu_primary = "#0f0e0d"    # espresso background for navbar
-menu_text = "#e9e4d8"       # parchment text
-menu_text_active = "#d8c99b"
-menu_title = "#e9e4d8"
+# Accent and typography
+primary          = "#b08d57"   # antique brass
+menu_primary     = "#14100e"   # dark espresso navbar
+menu_text        = "#e8dcc4"   # aged parchment
+menu_text_active = "#d4b480"   # burnished gold
+menu_title       = "#e8dcc4"
 
-background = "#0f0e0d"
-home_section_odd  = "#1a1816"
-home_section_even = "#141210"
+# Backgrounds
+background        = "#1a1512"  # deep brown espresso
+home_section_odd  = "#1d1815"  # warm cocoa
+home_section_even = "#221d19"  # slightly lighter cocoa
+
+# Links and buttons
+link             = "#b08d57"
+link_hover       = "#d6aa6a"
+button_primary   = "#b08d57"
+button_text      = "#1a1512"
+
+# Article / card details
+card_background  = "#201a16"   # dark umber card
+card_border      = "#3a312a"
+text             = "#e6daca"   # parchment text
+text_light       = "#c8bfae"   # muted metadata
+heading          = "#f1e5cd"   # ivory headings
+
+# Footer
+footer_background = "#14100e"
+footer_text       = "#c0b19b"
+footer_link       = "#b08d57"
+footer_link_hover = "#d6aa6a"
