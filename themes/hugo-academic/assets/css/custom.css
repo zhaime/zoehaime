@@ -29,3 +29,34 @@ details summary { cursor:pointer; font-weight:600; }
 #hero .hero-title { margin-bottom: .25rem !important; }
 #hero .hero-subtitle,
 #hero .lead { margin-bottom: .5rem !important; }
+
+/* Center the About widget (profile photo, name, and icons) */
+#about .row {
+  justify-content: center !important;   /* centre the row */
+  text-align: center !important;
+}
+
+#about #profile {
+  text-align: center !important;
+  margin: 0 auto;
+}
+
+#about .portrait-title h2,
+#about .portrait-title h3 {
+  text-align: center !important;
+}
+
+#about .network-icon {
+  justify-content: center !important;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+/* Optional: keep biography text readable and centered */
+#about .col-lg-8 {
+  max-width: 800px;
+  margin: 1rem auto;
+  text-align: center;
+}
+
