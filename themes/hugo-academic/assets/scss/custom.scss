@@ -1,1 +1,30 @@
 // Override this file to add your own SCSS styling.
+// Override this file to add your own SCSS styling.
+
+#about .row {
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+#about #profile {
+  text-align: center !important;
+  margin: 0 auto;
+}
+
+#about .portrait-title h2,
+#about .portrait-title h3 {
+  text-align: center !important;
+}
+
+#about .network-icon {
+  justify-content: center !important;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+#about .col-lg-8 {
+  max-width: 800px;
+  margin: 1rem auto;
+  text-align: center;
+}
