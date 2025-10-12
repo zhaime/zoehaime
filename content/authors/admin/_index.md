@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher, working at the University of Bristol, UK.
-
-I am currently working on the DIARY study, designing and piloting a journal-based intervention for improving online use amongst young people. I also work on the Digital Dialogues project, where we are creating a training package for mental health professionals aiding them to have conversations with young people about online use. In addition, I conduct work that explores moderation of online mental health spaces.
+Dr Zoë Haime is an interdisciplinary mental health researcher with expertise in psychiatry, psychology, and digital wellbeing. Her work explores the complex relationship between online activity and wellbeing, particularly among young people and individuals mental health difficulties. Drawing on participatory and creative methods, her research examines how digital environments shape users’ wellbeing, identity, and experiences of support. Beyond social media use, she is interested in how technology design, clinical practice, and policy intersect to influence digital mental health care, aiming to inform safer, more supportive, and inclusive digital ecosystems.
