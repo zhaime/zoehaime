@@ -9,7 +9,7 @@ menu_text_active = "#d4b480"   # burnished gold
 menu_title       = "#e8dcc4"
 
 # Backgrounds
-background        = "#ad4728"  # deep brown espresso
+background        = "#523a33"  # deep brown espresso
 home_section_odd  = "#1d1815"  # warm cocoa
 home_section_even = "#221d19"  # slightly lighter cocoa
 
@@ -17,7 +17,7 @@ home_section_even = "#221d19"  # slightly lighter cocoa
 link             = "#b08d57"
 link_hover       = "#d6aa6a"
 button_primary   = "#b08d57"
-button_text      = "#ad4728"
+button_text      = "#523a33"
 
 # Article / card details
 card_background  = "#201a16"   # dark umber card
