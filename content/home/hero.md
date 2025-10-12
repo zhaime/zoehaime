@@ -3,7 +3,7 @@ widget = "hero"      # homepage section type
 active = true
 weight = 1           # order on the page (lower = higher)
 
-title = "Dr Zoë Haime | PhD, PGDip, MSc, BSc (Hons)"
+title = "Dr Zoë Haime | PhD, PGDip, MSc, BSc Hons"
 subtitle = "Digital mental health researcher"
 
 # Optional styling
