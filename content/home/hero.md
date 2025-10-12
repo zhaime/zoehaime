@@ -18,4 +18,4 @@ tagline = "PhD, PGDip, MSc, BSc (Hons)"
   label = "View publications"
   url = "/publication/"
 +++
-Dr **Zoë Haime**, senior research associate at the University of Bristol Medical School. Digital mental health researcher currently exploring relationships between online experiences, wellbeing, and clinical practice.
+PhD, PGDip, MSc, BSc (Hons)
