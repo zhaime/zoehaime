@@ -1,0 +1,9 @@
+.pub-card {
+  border:1px solid #e6e6e6;
+  border-radius:12px;
+  padding:1rem 1.25rem;
+  margin-bottom:1rem;
+  background:#fff;
+}
+.pub-card h3 { margin-top:0; }
+details summary { cursor:pointer; font-weight:600; }

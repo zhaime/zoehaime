@@ -1,0 +1,14 @@
+<article class="pub-card" data-year="{{ .Date.Format "2006" }}">
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <p><strong>{{ delimit .Params.authors ", " }}</strong><br>
+     {{ .Params.publication }} ({{ .Date.Format "2006" }})</p>
+
+  {{ with .Params.abstract }}
+  <details><summary>Abstract</summary>{{ . | markdownify }}</details>
+  {{ end }}
+
+  <p>
+    {{ with .Params.url_pdf }}<a href="{{ . }}" target="_blank">PDF</a>{{ end }}
+    {{ with .Params.doi }} · <a href="https://doi.org/{{ . }}" target="_blank">DOI</a>{{ end }}
+  </p>
+</article>
