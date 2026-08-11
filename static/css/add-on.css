@@ -5,14 +5,20 @@
   and follow the formatting and style given.
 */
 
-/* Make the opening hero less tall and centre the content */
+/* Make the opening hero less tall */
 .wg-hero {
   padding-top: 30px !important;
   padding-bottom: 10px !important;
+}
+
+/* Centre everything inside the hero */
+.wg-hero .container,
+.wg-hero .row,
+.wg-hero .col-12 {
   text-align: center !important;
 }
 
-/* Small gap between qualifications and button */
+/* Small gap before publications button */
 .wg-hero .btn {
   margin-top: 15px !important;
 }
