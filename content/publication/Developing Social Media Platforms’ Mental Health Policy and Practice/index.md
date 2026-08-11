@@ -1,5 +1,5 @@
 ---
-title: "The Journey of Engaging With Web-Based Self-Harm and Suicide Content: Longitudinal Qualitative Study"
+title: "Developing Social Media Platforms’ Mental Health Policy and Practice"
 authors:
 - admin
 - Lucy Biddle
