@@ -4,7 +4,8 @@ active = true
 weight = 1
 
 title = "**Dr Zoë Haime**"
-subtitle = "PhD, PGDip, MSc, BSc (Hons)"
+subtitle = "PhD, PGDip, MSc, BSc Hons"
+tagline = "PhD, PGDip, MSc, BSc (Hons)"
 
 [design.background]
 color = "#F8F6F2"
@@ -14,3 +15,5 @@ text_color_light = false
 label = "View publications"
 url = "/publication/"
 +++
+
+PhD, PGDip, MSc, BSc (Hons)
