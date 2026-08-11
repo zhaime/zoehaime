@@ -4,7 +4,7 @@ active = true
 weight = 1
 
 title = "**Dr Zoë Haime**"
-tagline = "PhD, PGDip, MSc, BSc (Hons)"
+subtitle = "PhD, PGDip, MSc, BSc (Hons)"
 
 [design.background]
 color = "#F8F6F2"

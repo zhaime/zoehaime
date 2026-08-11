@@ -4,3 +4,8 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+
+/* Add a little space before the publications button */
+.wg-hero .btn {
+  margin-top: 15px !important;
+}
