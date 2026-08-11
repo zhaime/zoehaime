@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr Zoë Haime
+name:
 
 # Username (this should match the folder name)
 authors:
@@ -44,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:zoe.haime@bristol.ac.uk"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/zhaime
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=JFDD7j8AAAAJ&hl=en
