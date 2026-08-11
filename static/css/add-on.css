@@ -5,10 +5,11 @@
   and follow the formatting and style given.
 */
 
-/* Make the opening hero less tall */
+/* Make the opening hero less tall and centre the content */
 .wg-hero {
   padding-top: 30px !important;
   padding-bottom: 10px !important;
+  text-align: center !important;
 }
 
 /* Small gap between qualifications and button */
