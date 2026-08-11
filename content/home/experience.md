@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2021-12-01"
   date_end = ""
   description = """ 
-  Currently working on - the DIARY study and Digital Dialogues II:
-  Co-creation projects, working with children and young people and mental health professionals. The DIARY study aims to develop and pilot a journal-based intervention for improving online use amongst young people. The Digital Dialogues II study aims to build on the resources developed during Digital Dialogues I, to create a training package for mental health professionals on speaking to young people about their online use.
+  Currently working on - The DIARY study:
+  The DIARY study aims to co-develop and pilot a journal-based intervention for improving online use amongst young people. 
   
     Responsibilities include:
   
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   * Running day-to-day project work
   * Contributing to dissemination output<br><br>
   
-  Previously worked on - Digital Dialogues I: a co-creation (with young people) art-based research project, aiming to produce resources for mental health practitioners to improve their ability to communicate with young people about the impact of the online world on mental health.
+  Previously worked on - Digital Dialogues: a co-creation (with young people) art-based research project, aiming to produce resources for mental health practitioners to improve their ability to communicate with young people about the impact of the online world on mental health. Digital Dialogues II aimed to build on the resources developed during Digital Dialogues I, to create a training package for mental health professionals on speaking to young people about their online use. Digital Dialogues III aimed to develop a training offer to develop communication skills in discussing online use with children and young people.
     
     Responsibilities included:
   

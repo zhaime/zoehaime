@@ -3,7 +3,6 @@ name = "1950s"
 
 # Is theme light or dark?
 light = true
-day_night = false
 
 primary = "#7C746B"
 menu_primary = "#F6F3EE"
