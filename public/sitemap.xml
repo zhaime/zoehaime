@@ -1,199 +1,342 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://zoehaime.com/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/admin/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zoehaime.com/publication_types/2/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zoehaime.com/authors/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/charlotte-carney/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/engaging-young-people-with-mental-health-needs-and-exploring-outputs-from-a-resource-development-project-qualitative-interview-study/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/helen-bould/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/lucy-biddle/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/moderation/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/myles-jay-linton/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/online-use/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication_types/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/research/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/science/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/trust--safety/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/jane-derges/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/laura-kennedy/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/lydia-grace/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/reflective-journaling-on-suicide-and-self-harm-related-online-use-an-intervention-approach-for-reducing-online-harm-and-mental-health-impact/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/exploring-mental-health-content-moderation-and-well-being-tools-on-social-media-platforms-walkthrough-analysis/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/experiences-of-moderation-moderators-and-moderating-by-online-users-who-engage-with-self-harm-and-suicide-content/</loc>
+    <lastmod>2025-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/cyp/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/realising-the-potential-of-participatory-research-in-youth-mental-health-time-to-go-back-to-basics/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/georgina-griffiths/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/mental-health-practitioners-training-needs-and-preferences-for-addressing-online-use-with-children-and-young-people/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/apps/</loc>
+    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/bethany-cliffe/</loc>
+    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/young-adults-experiences-of-using-a-young-persons-mental-health-peer-support-app-a-qualitative-interview-study/</loc>
+    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/online-harms/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/rachel-cohen/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/self-harm/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/suicide/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/the-journey-of-engaging-with-web-based-self-harm-and-suicide-content-longitudinal-qualitative-study/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/talk/</loc>
+    <lastmod>2024-03-21T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/talk/workshop-3---adolescent-health/</loc>
+    <lastmod>2024-03-21T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/project/digital-dialogues/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/project/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/berni-e-medise/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/body-image/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/caterina-gentili/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/chariunnisa-riskiah/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/evaluating-a-school-based-body-image-lesson-in-indonesia-a-randomised-controlled-trial./</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/heidi-williamsom/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/kholisah-nasution/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/kirsty-m-garbett/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/l.-ayu-saraswati/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/mahira-budhraja/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/nadia-craddock/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/paul-white/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/phillippa-c-diedrichs/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/talk/workshop-2---psychology-cultures/</loc>
+    <lastmod>2023-11-30T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/georgie-ramsay/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/joanna-moncrieff/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/nadia-crellin/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/psychosis/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/recruitment-to-a-trial-of-antipsychotic-reduction-impact-of-an-acceptability-study/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/sysrevaponsoccog_haime/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/andrew-j-watson/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/eileen-joyce/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/louise-marston/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/social-cognition/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/alan-simpson/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/alexandra-papamichail/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/brynmor-lloyd-evans/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/cecilia-casetta/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/emily-roxburgh/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/fiona-gaughran/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/harriet-jordan/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/implementation-adoption-and-perceptions-of-telemental-health-during-the-covid-19-pandemic-systematic-review/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/jasmine-harju-seppanen/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/jiping-mo/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/julie-williams/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/justin-j-needle/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/lucy-goulding/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/luke-sheridan-rains/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/magdalena-tomaskova/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/merle-schlief/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/monika-badhan/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/nick-sevdalis/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/norha-vera-san-juan/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/phoebe-barnett/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/rebecca-appleton/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/sonia-johnson/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/authors/spyros-spyridonidis/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/telemental/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/publication/challenges-for-the-non-clinical-researcher/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/tags/recruitment/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zoehaime.com/tags/eating-disorders/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/francesca-solmi/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/janet-d-carter/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/jennifer-jordan/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/natasha-d-melunsky/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/publication/personality_traits_melunsky/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/publication_types/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/publication/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/tags/research/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/sarah-rowe/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/tags/science/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/tags/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/virginia-v-w-mcintosh/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/publication/sys_review_buswell/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/authors/brynmor-lloyd-evans/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/georgie-buswell/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/jo-billings/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/project/lifestudy/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/project/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/project/radar/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/tags/academic/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/categories/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/categories/conferences/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/post/blog1/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/post/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/and-maria-long/</loc>
     <lastmod>2019-06-11T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/talk/workshop1/</loc>
     <lastmod>2019-06-11T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/authors/lisa-grunwald/</loc>
     <lastmod>2019-06-11T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoehaime.com/talk/</loc>
-    <lastmod>2019-06-11T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://zoehaime.com/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://zoehaime.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zoehaime.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zoehaime.com/categories/</loc>
+  </url><url>
+    <loc>https://zoehaime.com/home/</loc>
   </url>
-  
-  <url>
-    <loc>https://zoehaime.com/courses/</loc>
-  </url>
-  
 </urlset>
