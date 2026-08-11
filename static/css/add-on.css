@@ -4,3 +4,14 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+
+/* Make the opening hero less tall */
+.wg-hero {
+  padding-top: 30px !important;
+  padding-bottom: 10px !important;
+}
+
+/* Small gap between qualifications and button */
+.wg-hero .btn {
+  margin-top: 15px !important;
+}
