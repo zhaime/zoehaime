@@ -15,5 +15,3 @@ text_color_light = false
 label = "View publications"
 url = "/publication/"
 +++
-
-PhD, PGDip, MSc, BSc (Hons)
