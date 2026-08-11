@@ -44,11 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:zoe.haime@bristol.ac.uk"
-  
 - icon: google-scholar
   icon_pack: ai
   link: "https://scholar.google.co.uk/citations?user=JFDD7j8AAAAJ&hl=en"
-
 - icon: briefcase
   icon_pack: fas
   link: "https://www.researchgate.net/profile/Zoe_Haime4/"
