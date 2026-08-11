@@ -7,20 +7,31 @@
   <div class="col-md-6 order-md-1 text-center text-md-left">
 {{ end }}
 
-   <h1 class="hero-title text-center">
-  {{ with $page.Title }}{{ . | markdownify }}{{ end }}
-</h1>
+    <h1 class="hero-title text-center">
+      {{ with $page.Title }}{{ . | markdownify }}{{ end }}
+    </h1>
 
-{{ with $page.Content }}
-<div class="hero-lead text-center">{{ . }}</div>
-{{ end }}
+    {{ with $page.Content }}
+    <div class="hero-lead text-center">{{ . }}</div>
+    {{ end }}
 
-{{/* Call-to-action link */}}
-{{ if $page.Params.cta.url }}
-...
-<p class="cta-btns text-center">
+    {{/* Call-to-action link */}}
+    {{ if $page.Params.cta.url }}
+      {{ $pack := or $page.Params.cta.icon_pack "fas" }}
+      {{ $pack_prefix := $pack }}
+      {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+        {{ $pack_prefix = "fa" }}
+      {{ end }}
+      {{ $link := $page.Params.cta.url }}
+      {{ $scheme := (urls.Parse $link).Scheme }}
+      {{ $target := "" }}
+      {{ if not $scheme }}
+        {{ $link = $link | relLangURL }}
+      {{ else if in (slice "http" "https") $scheme }}
+        {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+      {{ end }}
 
-    
+    <p class="cta-btns text-center">
       <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg">{{ if $page.Params.cta.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.cta.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $page.Params.cta.label | markdownify | emojify | safeHTML }}</a>
 
       {{/* Alternative Call-to-action link */}}
